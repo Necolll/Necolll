@@ -21,10 +21,6 @@ I'm currently learning Java and backend development.
   <img src="https://img.shields.io/badge/📊%20Apache%20Log%20Aggregator-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="./KT-Python-Anton">
-  <img src="https://img.shields.io/badge/🐍%20Python%20Projects-181717?style=for-the-badge&logo=python&logoColor=white">
-</a>
-
 ---
 
 ## 📚 Currently Learning
