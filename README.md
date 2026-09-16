@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Anton
 
-### 👨‍💻 Student & Junior Java Developer
+### 👨‍💻 Student & Beginner Java Developer
 
 I'm currently learning Java and backend development.
 
@@ -40,7 +40,7 @@ I'm currently learning Java and backend development.
 
 ## 🔗 Connect with me
 
-<a href="https://github.com/Necoll">
+<a href="https://github.com/Necolll">
 <img src="https://img.shields.io/badge/GitHub-Necoll-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
