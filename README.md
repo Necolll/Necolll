@@ -19,11 +19,11 @@ I'm currently learning Java and backend development.
 
 ## 🚀 My Projects
 
-<a href="https://github.com/Necoll/apache_log_aggregator">
+<a href="https://github.com/Necolll/apache_log_aggregator">
 <img src="https://img.shields.io/badge/📊%20Apache%20Log%20Aggregator-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://github.com/Necoll/KT-Python-Anton">
+<a href="https://github.com/Necolll/KT-Python-Anton">
 <img src="https://img.shields.io/badge/🐍%20Python%20Projects-181717?style=for-the-badge&logo=python&logoColor=white">
 </a>
 
